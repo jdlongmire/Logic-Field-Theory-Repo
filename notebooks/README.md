@@ -80,7 +80,7 @@ Each notebook’s final plots and key outputs are tagged for easy inclusion in t
 
 ## 📜 License
 
-© [Your Name or Organization], 2025.  
+© James D. (JD) Longmire, 2025.  
 Content is provided for academic and research use.  
 Reuse, modification, or distribution requires citation of the Logic Field Theory (LFT) project.
 
