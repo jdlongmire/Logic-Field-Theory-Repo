@@ -1,5 +1,9 @@
 # 🧠 Logic Field Theory (LFT)
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-Academic-lightgrey.svg)](#)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](#)
+
 Welcome to the Logic Field Theory (LFT) research repository.  
 LFT is a novel scientific framework that refines quantum mechanics by introducing logic-first constraints on state realization.
 
